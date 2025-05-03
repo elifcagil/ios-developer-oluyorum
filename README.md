@@ -20,8 +20,8 @@ Ama gerçek projelere adım attıklarında bambaşka sorularla karşılaşıyorl
 - “Bu özelliği nasıl entegre ederim?”
 - “MVVM mimarisini nereye kadar uygulamalıyım?”
 - “Bu bug neden oluyor, çözümü neden hiç anlatılmadı?”
-- “Kamera erişimini neden alamıyorum?”
-- “Firestore verimi neden göstermiyor?”
+- “Kamera erişimini neden alamıyorum?” ve bunun gibi bir çok gerçek hayat problemleri..
+
 
 İşte bu seri, bu soruları yaşayan herkes için var.  
 Amacımız, sadece teknik bilgi sunmak değil; **görünmeyen detayları görünür kılmak.**
