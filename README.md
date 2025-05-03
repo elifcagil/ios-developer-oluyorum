@@ -28,9 +28,9 @@ Amacımız, sadece teknik bilgi sunmak değil; **görünmeyen detayları görün
 
 ---
 
-## 🔍 Seride Ne Var?
+## 🔍 Seride Neler Var?
 
-Bu repo, **Zamansız iOS canlı yayın serisine** ait tüm içerikleri kapsar. Her hafta, işlenen konulara dair:
+Bu repo, **iOS Developer Oluyorum canlı yayın serisine** ait tüm içerikleri kapsar. Her hafta, işlenen konulara dair:
 
 - 📝 Ders notları  
 - 💻 Örnek projeler / kodlar  
@@ -52,33 +52,25 @@ Bu seri yalnızca **trend teknolojilere** değil, seni gerçekten ileri taşıya
 - Dark/Light mod performansı  
 - Store'a uygulama gönderme süreci  
 - SwiftUI & UIKit birlikte kullanım  
-- Veritabanı tasarımı  
 - Test yazımı & hata ayıklama bakış açısı  
 - ve çok daha fazlası...
 
 ---
 
-## 🤝 Kimlerle Yapıyoruz?
+## 🤝 Nasıl İlerleyeceğiz ?
 
-Bu seriyi  
-**Multi bakış açısı** ve **multi deneyim** mottosuyla ilerleteceğiz!  
+Bu seriyi  **Multi bakış açısı** ve **multi deneyim** mottosuyla ilerleteceğiz!  
 
-Burada tek bir yol anlatılmayacak, yollar karşılaştırılacak ve birlikte keşfedilecek.  
-Ayrıca her yayında, sektörde aktif olarak çalışan **senior iOS geliştiricilerle** birlikte olacağız.  
-
-Her biri kendi tecrübelerini, hatalarını, başarılarını ve geliştirdiği çözümleri bizimle paylaşacak.  
-Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.  
-**Tek bir yol yok, tek bir doğrusu yok — bu yüzden birden fazla perspektifi bir araya getiriyoruz.**
-
-### Ve işin en heyecanlı kısmı?
-
+Bu seride tek bir yol olmayacak, yollar karşılaştırılacak ve birlikte keşfedilecek. 
 Her yayında sektörden farklı **senior iOS geliştiriciler** bizlerle olacak!  
-Yani bu seride sadece teoriler yok;  
+Yani sadece teoriler yok;  
 bolca gerçek hayat hikayesi,  
 “ben de zamanında bu hatayı yaptım” itirafları,  
 kısayollar, ipuçları ve bol kahkahalı anılar var 😄  
 
-Bu sadece bir yayın değil — **deneyimlerin buluştuğu, bilgilerin paylaşıldığı ve birlikte büyüdüğümüz canlı bir topluluk.**
+Her biri kendi tecrübelerini, hatalarını, başarılarını ve geliştirdiği çözümleri bizimle paylaşacak.  
+Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.  
+**Tek bir yol yok, tek bir doğrusu yok — bu yüzden birden fazla perspektifi bir araya getiriyoruz.**
 
 ---
 
@@ -109,6 +101,7 @@ Görüşlerinizi, katkılarınızı ve önerilerinizi bizimle paylaşmaktan çek
 
 ---
 
-💚 “Ben bunu bilmediğimi bile bilmiyordum” diyorsan, doğru yerdesin.  
+💚 “Ben bunu bilmediğimi bile bilmiyordum” diyorsan, doğru yerdesin.Çünkü burada sadece bir yayın değil — **deneyimlerin buluştuğu, bilgilerin paylaşıldığı ve birlikte büyüdüğümüz canlı bir topluluk oluşturacağız.**
+
 **Haydi devam edelim!**
 
