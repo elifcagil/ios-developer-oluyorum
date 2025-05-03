@@ -4,8 +4,11 @@
 
 ![iOS Developer Oluyorum Banner](assets/ios-developer-oluyorum-banner.jpeg)
 
-> “Kursu bitirdim ama sonra ne olacak?”  
-> Eğer bu soru senin de kafanı kurcalıyorsa, yalnız değilsin. Bu seri senin için.
+---
+
+
+“Kursu bitirdim ama sonra ne olacak?”  
+Eğer bu soru senin de kafanı kurcalıyorsa, yalnız değilsin. Bu seri senin için.
 
 ---
 
