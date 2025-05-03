@@ -2,7 +2,7 @@
 
 # 🍏 iOS Developer Oluyorum
 
-![iOS Developer Oluyorum Banner](ios-developer-oluyorum-banner)
+![iOS Developer Oluyorum Banner](https://github.com/elifcagil/ios-developer-oluyorum/tree/main/assets)
 
 > “Kursu bitirdim ama sonra ne olacak?”  
 > Eğer bu soru senin de kafanı kurcalıyorsa, yalnız değilsin. Bu seri senin için.
