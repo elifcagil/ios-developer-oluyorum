@@ -1,11 +1,8 @@
-
-
 # 🍏 iOS Developer Oluyorum
 
 ![iOS Developer Oluyorum Banner](assets/ios-developer-oluyorum-banner.jpeg)
 
 ---
-
 
 “Kursu bitirdim ama sonra ne olacak?”  
 Eğer bu soru senin de kafanı kurcalıyorsa, yalnız değilsin. Bu seri senin için.
@@ -18,10 +15,8 @@ Birçok kişi iOS kurslarını ya da bootcamp'leri tamamladığında “artık h
 Ama gerçek projelere adım attıklarında bambaşka sorularla karşılaşıyorlar:
 
 - “Bu özelliği nasıl entegre ederim?”
-- “MVVM mimarisini nereye kadar uygulamalıyım?”
+- “Mimarileri nasıl uygulamalıyım?”
 - “Bu bug neden oluyor, çözümü neden hiç anlatılmadı?”
-- “Kamera erişimini neden alamıyorum?”
-- “Firestore verimi neden göstermiyor?”
 
 İşte bu seri, bu soruları yaşayan herkes için var.  
 Amacımız, sadece teknik bilgi sunmak değil; **görünmeyen detayları görünür kılmak.**
@@ -30,7 +25,7 @@ Amacımız, sadece teknik bilgi sunmak değil; **görünmeyen detayları görün
 
 ## 🔍 Seride Ne Var?
 
-Bu repo, **Zamansız iOS canlı yayın serisine** ait tüm içerikleri kapsar. Her hafta, işlenen konulara dair:
+Bu repo, **iOS Developer Oluyorum Serisine** ait tüm içerikleri kapsar. Her hafta, işlenen konulara dair:
 
 - 📝 Ders notları  
 - 💻 Örnek projeler / kodlar  
@@ -39,22 +34,6 @@ Bu repo, **Zamansız iOS canlı yayın serisine** ait tüm içerikleri kapsar. H
 - 💡 Özgün ipuçları & fark edilmeyen detaylar  
 
 hepsi bu yapıda yer alacak.
-
----
-
-## 🧭 Serinin Odağı
-
-Bu seri yalnızca **trend teknolojilere** değil, seni gerçekten ileri taşıyacak olan **temellere** odaklanır:
-
-- MVVM + UIKit + Firestore  
-- Kamera ve galeri entegrasyonları  
-- Widget geliştirme  
-- Dark/Light mod performansı  
-- Store'a uygulama gönderme süreci  
-- SwiftUI & UIKit birlikte kullanım  
-- Veritabanı tasarımı  
-- Test yazımı & hata ayıklama bakış açısı  
-- ve çok daha fazlası...
 
 ---
 
@@ -70,15 +49,39 @@ Her biri kendi tecrübelerini, hatalarını, başarılarını ve geliştirdiği 
 Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.  
 **Tek bir yol yok, tek bir doğrusu yok — bu yüzden birden fazla perspektifi bir araya getiriyoruz.**
 
-### Ve işin en heyecanlı kısmı?
+---
 
-Her yayında sektörden farklı **senior iOS geliştiriciler** bizlerle olacak!  
-Yani bu seride sadece teoriler yok;  
-bolca gerçek hayat hikayesi,  
-“ben de zamanında bu hatayı yaptım” itirafları,  
-kısayollar, ipuçları ve bol kahkahalı anılar var 😄  
+## 📚 İçerikler
 
-Bu sadece bir yayın değil — **deneyimlerin buluştuğu, bilgilerin paylaşıldığı ve birlikte büyüdüğümüz canlı bir topluluk.**
+| ✅ | Konu                                            | Döküman Sayısı | Proje Sayısı | Tahmini Süre | İlgili Kişi      | Konuşmacı            |
+|----|-----------------------------------------------|------------------|--------------|--------------|-----------------------------------------|
+| ✅ | Firestore'de MVVM ile app inşası              |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+| ✅ |                                               |                  |              |              |                  |                      |
+
+---
+
+## ✍️ Medium Yazılarımız
+
+| 📌 Konu                             | Medium Yazısı                                                                                        |
+|------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Firestore'de MVVM ile app inşası   | [Firestore İle MVVM mimarisini Kullandığımız Bir App Nasıl Olmalı?]()                                 |
+| SearchBar kullanımı                | [Searhbarda Kamera Kullanımı ve Daha Fazlası]()                                                       |
+|                                    |                                                                                                       |
+|                                    |                                                                                                       |
+|                                    |                                                                                                       |
+|                                    |                                                                                                       |
+|                                    |                                                                                                       |
+|                                    |                                                                                                       |
+|                                    |                                                                                                       |
+|                                    |                                                                                                       |
 
 ---
 
@@ -100,6 +103,24 @@ Siz de:
 
 ---
 
+## 🛠 Güncellemeler
+
+Bu repoyu düzenli olarak geliştiriyoruz.  
+Güncellemeleri takip etmek ve geri bildirimde bulunmak için [bizi buradan takip edebilirsiniz]().  
+Katkılarınız bizim için çok değerli!
+
+---
+
+## ⭐ Repoyu Faydalı Buldunuz Mu?
+
+Eğer size katkısı olduğunu düşünüyorsanız, bu repoyu **⭐ starlayarak** bize destek olabilirsiniz.  
+Bu, bizi daha fazla içerik üretmek için motive edecektir.  
+
+Eksik ya da hatalı gördüğünüz herhangi bir şey varsa, lütfen ilgili kişilere ulaşarak bildirin.  
+Birlikte daha iyisini yapabiliriz! 👍🏻
+
+---
+
 ## 📩 İletişim
 
 Görüşlerinizi, katkılarınızı ve önerilerinizi bizimle paylaşmaktan çekinmeyin!
@@ -107,8 +128,10 @@ Görüşlerinizi, katkılarınızı ve önerilerinizi bizimle paylaşmaktan çek
 > Bu yolculuk tek kişilik değil.  
 > Bilmediğimizi birlikte fark edeceğiz.
 
----
-
 💚 “Ben bunu bilmediğimi bile bilmiyordum” diyorsan, doğru yerdesin.  
 **Haydi devam edelim!**
+
+---
+
+## 🧾 Lisans
 

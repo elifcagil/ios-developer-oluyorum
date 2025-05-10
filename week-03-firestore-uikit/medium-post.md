@@ -1,1 +1,0 @@
-# Medium Post - Week 03 Firestore Uikit

@@ -1,1 +1,0 @@
-# Readme - Week 02 Mvvm Camera Search
