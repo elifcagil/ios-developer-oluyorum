@@ -1,6 +1,12 @@
 
 # 👩‍💻 Ben iOS Developer'ım, Sen Seversin Sevmezsin Beni İlgilendirmez
 
+> “Ben MVVM’ciyim.  
+> Sen kodu ViewController’a gömersin ya da ViewModel’e ayırırsın...  
+> Beni ilgilendirmez!” – Bir iOS Developer'ın Çığlığı
+
+---
+
 ## ☄️ Giriş
 
 Firestore, MVVM ve UIKit üçlüsünden neler çektik değil mi?
@@ -70,15 +76,6 @@ diyorsan, hoş geldin. Tam yerine geldin.
 - [x] Clean code
 
 ---
-
-## 🫶 Bonus: Seda Sayan Edition
-
-> “Ben MVVM’ciyim.  
-> Sen kodu ViewController’a gömersin ya da ViewModel’e ayırırsın...  
-> Beni ilgilendirmez!” – Bir iOS Developer'ın Çığlığı
-
----
-
 ## ✨ Kurulum
 
 ```bash
