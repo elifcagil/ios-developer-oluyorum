@@ -53,9 +53,9 @@ Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.
 
 ## 📚 İçerikler
 
-| ✅ | Konu                              | Döküman Sayısı   | Proje Sayısı | Tahmini Süre |İlgili Kişi       | Konuşmacı            |
+| ✅ | Konu                              | Döküman Sayısı   | Örnek Proje  | Yayın Süresi | İlgili Kişi      | Konuşmacı            |
 |----|-----------------------------------|------------------|--------------|--------------|------------------|----------------------|
-| ✅ | Firestore'de MVVM ile app inşası  |                  |              |              |                  |                      |
+| ✅ | Firestore'de MVVM ile app inşası  |                  |              |  2.30 saat   |  Elif Çağıl      |  Bilal Durnagöl      |
 | ✅ |                                   |                  |              |              |                  |                      |
 | ✅ |                                   |                  |              |              |                  |                      |
 | ✅ |                                   |                  |              |              |                  |                      |
