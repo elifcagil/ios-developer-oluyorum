@@ -79,7 +79,7 @@ diyorsan, hoş geldin. Tam yerine geldin.
 ## ✨ Kurulum
 
 ```bash
-git clone https://github.com/devmultigroup/mvvm-firestore-uikit.git
+git clone https://github.com/elifcagil/mvvm-firestore-uikit.git
 cd mvvm-firestore-uikit
 open MVVMApp.xcodeproj
 ```

@@ -106,7 +106,7 @@ Siz de:
 ## 🛠 Güncellemeler
 
 Bu repoyu düzenli olarak geliştiriyoruz.  
-Güncellemeleri takip etmek ve geri bildirimde bulunmak için [bizi buradan takip edebilirsiniz]().  
+Güncellemeleri takip etmek ve geri bildirimde bulunmak için [bizi buradan takip edebilirsiniz](https://kommunity.com/devmultigroup).  
 Katkılarınız bizim için çok değerli!
 
 ---
