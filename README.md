@@ -23,9 +23,12 @@ Amacımız, sadece teknik bilgi sunmak değil; **görünmeyen detayları görün
 
 ---
 
-## 🔍 Seride Ne Var?
+## 🔍 Seride Neler Var?
+
 
 Bu repo, **iOS Developer Oluyorum Serisine** ait tüm içerikleri kapsar. Her hafta, işlenen konulara dair:
+
+
 
 - 📝 Ders notları  
 - 💻 Örnek projeler / kodlar  
@@ -36,6 +39,7 @@ Bu repo, **iOS Developer Oluyorum Serisine** ait tüm içerikleri kapsar. Her ha
 hepsi bu yapıda yer alacak.
 
 ---
+
 
 ## 🤝 Kimlerle Yapıyoruz?
 
@@ -83,6 +87,7 @@ Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.
 |                                    |                                                                                                       |
 |                                    |                                                                                                       |
 
+
 ---
 
 ## 🚀 Katılım & Takip
@@ -128,7 +133,12 @@ Görüşlerinizi, katkılarınızı ve önerilerinizi bizimle paylaşmaktan çek
 > Bu yolculuk tek kişilik değil.  
 > Bilmediğimizi birlikte fark edeceğiz.
 
+
 💚 “Ben bunu bilmediğimi bile bilmiyordum” diyorsan, doğru yerdesin.  
+
+---
+
+
 **Haydi devam edelim!**
 
 ---
