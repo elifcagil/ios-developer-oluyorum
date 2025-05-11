@@ -53,18 +53,18 @@ Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.
 
 ## 📚 İçerikler
 
-| ✅ | Konu                              | Döküman Sayısı   | Örnek Proje  | Yayın Süresi | İlgili Kişi      | Konuşmacı            |
-|----|-----------------------------------|------------------|--------------|--------------|------------------|----------------------|
-| ✅ | Firestore'de MVVM ile app inşası  |                  |              |  2.30 saat   |  Elif Çağıl      |  Bilal Durnagöl      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
-| ✅ |                                   |                  |              |              |                  |                      |
+| ✅ | Konu                              |   Youtube Linki          | Örnek Proje  | Yayın Süresi     | İlgili Kişi                                  | Konuşmacı                                               |
+|----|-----------------------------------|--------------------------|--------------|------------------|--------------------------------------------- |---------------------------------------------------------|
+| ✅ | Firestore'de MVVM ile app inşası  | [Youtube](https://www.youtube.com/live/arXRcG6Civ8?si=Qi3aPqS-JJXl6Icl)||  2.30 saat       |  [Elif Çağıl](https://github.com/elifcagil)  |  [Bilal Durnagöl](https://github.com/bilaldurnagol)     |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ |                                   |                          |              |                  |                                              |                                                         |
 
 ---
 
