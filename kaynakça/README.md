@@ -1,7 +1,7 @@
 # 🎙Her Yayın Bir Dünya
  
 > Bu yayın serisinde her bölüm kendi mottosuyla gelir.  
-> Sadece satırları değil, bakış açımızı da düzenlediğimiz bir yolculuk.🎡
+> Sadece satırları değil, yeni bakış açıları kazandığımız da bir yolculuk.🎡
 
 ## 🗓 Her yayınımızın bir mottosu var!!
 

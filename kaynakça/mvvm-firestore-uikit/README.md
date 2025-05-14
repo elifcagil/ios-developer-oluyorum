@@ -17,12 +17,8 @@ Firestore, MVVM ve UIKit üçlüsünden neler çektik değil mi?
 
 Ama merak etme!  
 **Bu repo tam olarak tüm bu çilelerin üstesinden gelmek için var.**  
-Çünkü biz biliyoruz ki:
 
-> 💪 “Senin içinde o güç var. Ve evet, gerçekten var.”  
-> ❤️ Ayrıca... inanılmaz bir sevgin de var bu işe karşı.
-
-İşte o motivasyonu kullanıyoruz burada.  
+ 
 Kimi zaman hata mesajlarıyla kavga ederek, kimi zaman Auto Layout ile barış imzalayarak...  
 Ama hep birlikte ilerleyerek.
 
