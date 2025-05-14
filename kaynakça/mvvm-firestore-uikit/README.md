@@ -1,5 +1,5 @@
 
-# 👩‍💻 Ben iOS Developer'ım, Sen Seversin Sevmezsin Beni İlgilendirmez
+
 
 > “Ben MVVM’ciyim.  
 > Sen kodu ViewController’a gömersin ya da ViewModel’e ayırırsın...  
