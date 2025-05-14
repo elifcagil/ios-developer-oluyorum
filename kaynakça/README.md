@@ -3,7 +3,7 @@
 > Bu yayın serisinde her bölüm kendi mottosuyla gelir.  
 > Sadece satırları değil, bakış açımızı da düzenlediğimiz bir yolculuk.🎡
 
-## 🗓 Yayın Takvimi & Mottolar
+## 🗓 Her yayınımızın bir mottosu var!!
 
 ### 📦  MVVM + Firestore + UIKit ile mini ToDoApp inşası 
 **Bu gününü Motto'su bu :** Reusable Code **  
