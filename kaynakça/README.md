@@ -6,7 +6,7 @@
 ## 🗓 Yayın Takvimi & Mottolar
 
 ### 📦  MVVM + Firestore + UIKit ile mini ToDoApp inşası 
-**Motto:** **  
+**Bu gününü Motto'su bu :** Reusable Code **  
 
 ---
 
