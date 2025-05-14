@@ -77,7 +77,6 @@ Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.
 | 📌 Konu                             | Medium Yazısı                                                                                        |
 |------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Firestore'de MVVM ile app inşası   | [Firestore İle MVVM mimarisini Kullandığımız Bir App Nasıl Olmalı?]()                                 |
-| SearchBar kullanımı                | [Searhbarda Kamera Kullanımı ve Daha Fazlası]()                                                       |
 |                                    |                                                                                                       |
 |                                    |                                                                                                       |
 |                                    |                                                                                                       |
