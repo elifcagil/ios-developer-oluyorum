@@ -59,8 +59,8 @@ Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.
 
 | ✅ | Konu                              |   Youtube Linki          | Örnek Proje  | Yayın Süresi     | İlgili Kişi                                  | Konuşmacı                                               |
 |----|-----------------------------------|--------------------------|--------------|------------------|--------------------------------------------- |---------------------------------------------------------|
-| ✅ | Firestore'de MVVM ile app inşası  | [Youtube](https://www.youtube.com/live/arXRcG6Civ8?si=Qi3aPqS-JJXl6Icl)||  2.30 saat       |  [Elif Çağıl](https://github.com/elifcagil)  |  [Bilal Durnagöl](https://github.com/bilaldurnagol)     |
-| ✅ |                                   |                          |              |                  |                                              |                                                         |
+| ✅ | Firestore'de MVVM ile app inşası  | [Youtube](https://www.youtube.com/live/arXRcG6Civ8?si=Qi3aPqS-JJXl6Icl)||2.30 saat|[Elif Çağıl](https://github.com/elifcagil)| [Bilal Durnagöl](https://github.com/bilaldurnagol)|
+| ✅ |SwiftUI-UIKir kullanarak GoogleMaps Entegrasyonu|[Youtube](https://www.youtube.com/live/pIvVjj_zro4?si=U7E8HFg3R8BMjtUp)|1.01 saat| [Elif Çağıl](https://github.com/elifcagil)|[Fatih Durmaz](https://github.com/fatihdurmaz)                                              |                                                         |
 | ✅ |                                   |                          |              |                  |                                              |                                                         |
 | ✅ |                                   |                          |              |                  |                                              |                                                         |
 | ✅ |                                   |                          |              |                  |                                              |                                                         |
@@ -76,7 +76,7 @@ Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.
 
 | 📌 Konu                             | Medium Yazısı                                                                                        |
 |------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Firestore'de MVVM ile app inşası   | [Firestore İle MVVM mimarisini Kullandığımız Bir App Nasıl Olmalı?]()                                 |
+| Firestore'de MVVM ile app inşası   | [MVVM mimarisi ile Firestore ve UIKit Kullanarak iOS App Geliştirme]()                                 |
 |                                    |                                                                                                       |
 |                                    |                                                                                                       |
 |                                    |                                                                                                       |
