@@ -1,5 +1,6 @@
 
-## 🔗 Firebase – Useful Links 
+## 🔗 MVVM ile UIKit kullanarak Firebase-Firestore Entegrasyonu
+
 
 - 🎬 [SetUp Firebase](https://youtu.be/F9Gs_pfT3hs?si=YDt3-q03Q72Xmgza)
 - 📄 [Firebase iOS Kurulum Dokümantasyonu](https://firebase.google.com/docs/ios/setup?hl=tr)
@@ -12,3 +13,12 @@
 
 ---
 
+## 🗺️ SwiftUI & UIKit ile Google Maps Entegrasyonu
+ 
+- 🌐[Google Maps iOS SDK Cloud Setup](https://developers.google.com/maps/documentation/ios-sdk/cloud-setup)
+- 🧪[Google Maps iOS SwiftUI Codelab](https://developers.google.com/codelabs/maps-platform/maps-platform-ios-swiftui#0)  
+- 🧱[UIViewRepresentable – Apple Docs](https://developer.apple.com/documentation/swiftui/uiviewrepresentable)  
+- 🧩[UIViewControllerRepresentable – Apple Docs](https://developer.apple.com/documentation/swiftui/uiviewcontrollerrepresentable)  
+- 📝[SwiftUI Notlarım – Notion](https://durmaz.notion.site/SwiftUI-Notlar-m-890f217350a8465885c160c801e985b4)  
+- 📚[Swift by Sundell – UIKit in SwiftUI]( https://www.swiftbysundell.com/articles/uikit-in-swiftui/)  
+- 🚀[Hacking with Swift – SwiftUI + UIKit]( https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-uikit-with-swiftui)  

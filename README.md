@@ -74,17 +74,18 @@ Gerçek dünyadan örneklerle, tek başına öğrenmenin ötesine geçeceğiz.
 
 ## ✍️ Medium Yazılarımız
 
-| 📌 Konu                             | Medium Yazısı                                                                                        |
-|------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Firestore'de MVVM ile app inşası   | [MVVM mimarisi ile Firestore ve UIKit Kullanarak iOS App Geliştirme]()                                 |
-|                                    |                                                                                                       |
-|                                    |                                                                                                       |
-|                                    |                                                                                                       |
-|                                    |                                                                                                       |
-|                                    |                                                                                                       |
-|                                    |                                                                                                       |
-|                                    |                                                                                                       |
-|                                    |                                                                                                       |
+| 📌 Konu                            | Medium Yazısı                                                                                         |         Süre           |
+|------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------
+| Firestore'de MVVM ile app inşası   | [MVVM mimarisi ile Firestore ve UIKit Kullanarak iOS Geliştirme](https://medium.com/@elifcagil/mvvm-mimarisi-ile-firestore-ve-uikit-kullanarak-ios-app-geliştirme-7206688455c1)|   5 dk                     |
+|                                    |                                                                                                       |                        |
+|                                    |                                                                                                       |                        |
+|                                    |                                                                                                       |                        |
+|                                    |                                                                                                       |                        |
+|                                    |                                                                                                       |                        |
+|                                    |                                                                                                       |                        |
+|                                    |                                                                                                       |                        |
+|                                    |                                                                                                       |                        |
+
 
 
 ---
@@ -143,4 +144,5 @@ Görüşlerinizi, katkılarınızı ve önerilerinizi bizimle paylaşmaktan çek
 ---
 
 ## 🧾 Lisans
+
 
