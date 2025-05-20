@@ -6,10 +6,10 @@
 ## 🗓 Her yayınımızın bir mottosu var!!
 
 ### 📦  MVVM + Firestore + UIKit ile mini ToDoApp inşası 
-**Bugünün Motto'su bu :** Reusable Code **  
+**Bugünün Motto'su bu :** Reusable Code 
 
 ### 📦 SwiftUI & UIKit ile Google Maps Entegrasyonu
-**Bugünün Motto'su bu :** Old Good'dur **  
+**Bugünün Motto'su bu :** Old Good'dur   
 
 ---
 
